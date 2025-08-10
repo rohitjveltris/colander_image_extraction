@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+Pillow
+numpy
+tqdm
+scikit-image
+streamlit

@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.venv/
+env/
+venv/
+
+# macOS
+.DS_Store
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Datasets and large files
+data/
+datasets/
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# YOLO training outputs
+runs/
+weights/
+*.pt
+
+# Checkpoints
+checkpoints/
+*.ckpt
+
+# Streamlit cache
+.streamlit/
+.cache/
+
+# Temporary files
+tmp/
+temp/
