@@ -43,3 +43,33 @@ checkpoints/
 # Temporary files
 tmp/
 temp/
+
+# YOLO dataset preparation outputs
+data_logodet_yolo/
+*.txt
+labels_all/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Model outputs
+out/
+output/
+results/
+experiments/
+
+# Claude Code settings
+.claude/
+
+# Kaggle / HuggingFace tokens
+kaggle.json
+.hf_home/
+
+# Other common exclusions
+*.swp
+*.swo
+*~
+.pytest_cache/
+.coverage
+htmlcov/
