@@ -1,0 +1,5 @@
+# Single-class logo detection using list files
+names:
+  0: logo
+train: /root/colander_image_extraction/data_logodet_yolo/train.txt
+val: /root/colander_image_extraction/data_logodet_yolo/val.txt
